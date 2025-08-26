@@ -1,8 +1,9 @@
 {"skills": [
-        {"name":"template", "description":"DESC", "id":9999, "positions":[{"x":"1000%"},{"y":"1000%"}], "type":"start",  "connect":[10000], "maxlvl":"1"},
-        {"name":"Start", "Welcome to Dragonsouls! <br> <br> This is what you start with: <br> 10 HP <br> 10 MANA <br> 1 ARMOR <br> 10 SPEED <br> <br> The rest is 0. <br> <br> Make sure to pick a race as well.":"", "id":0, "positions":[{"x":"50%"},{"y":"50%"}], "type":"start",  "connect":[2], "maxlvl":"1"},
-        {"name":"template", "description":"DESC", "id":2, "positions":[{"x":"40"},{"y":"50%"}], "type":"start",  "connect":[10000], "maxlvl":"1"},
+        {"name":"template", "description":"DESC", "id":9999, "positions":[{"x":"1000%"},{"y":"1000%"}], "type":"start",  "connect":[], "maxlvl":"1"},
+        {"name":"Start", "description":"Welcome to Dragonsouls! <br> <br> This is what you start with: <br> 10 HP <br> 10 MANA <br> 1 ARMOR <br> 10 SPEED <br> <br> The rest is 0. <br> <br> Make sure to pick a race as well.", "id":0, "positions":[{"x":"50%"},{"y":"50%"}], "type":"start",  "connect":[2], "maxlvl":"1"},
+        {"name":"template", "description":"DESC", "id":2, "positions":[{"x":"40"},{"y":"50%"}], "type":"start",  "connect":[0], "maxlvl":"1"},
      ]
 }
+
 
 
